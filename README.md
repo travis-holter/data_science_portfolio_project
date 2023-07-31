@@ -19,6 +19,9 @@ I learned that coding in python is less frustrating than formatting markup langu
 # What makes my project stand out:
 The clear documentation, the updated comments in the code and my furrious burning passion for revealing the truth with data.
 
+# What's next?
+Getting into the python library MatPlotLib to create some visual representations of the data and get some nice images into this readme is next.
+
 ## Project Description
 
 # What does this project do?
