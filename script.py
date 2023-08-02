@@ -1,6 +1,11 @@
 # This line imports the csv package which is required to read the .csv file, specifically using DictReader.
 import csv
 
+# This line imports matplotlib, which is a lirbrary that is used to make graphs. 
+# From matplotlib.org TODO put that and command into readmefile installation instructions
+# pip install matplotlib
+import matplotlib.pyplot as plt
+
 # This section contains methods that take data, peform calculations, and retrun a useful aggregate/result.
 
 # This method takes in a list of ages and returns their average. The list is expected to contain ints.
