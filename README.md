@@ -32,11 +32,12 @@ This project uses python to import raw medical data from a .csv file and perform
 2. Make sure you have a code editor set up with a python environment. I use VS Code, this script should work on many different set ups.
 3. Open the project folder in VS Code and navigate into root foler with your terminal.
     cd '.\Python Portfolio Project\'
-
-4. Run script.py with python in the terminal
+4. Make sure you have matplotlib installed. If you have recent python, you should have pip installed by default, you can use the command:
+    pip install matplotlib
+5. Run script.py with python in the terminal
     python .\script.py
 
-5. View the results printed into the terminal. You can open the script.py file in your editor to see the comments and the code.
+6. View the results printed into the terminal. You can open the script.py file in your editor to see the comments and the code.
 
 ## Credits
 Travis Holter wrote the code.

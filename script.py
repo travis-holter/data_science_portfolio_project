@@ -2,8 +2,6 @@
 import csv
 
 # This line imports matplotlib, which is a lirbrary that is used to make graphs. 
-# From matplotlib.org TODO put that and command into readmefile installation instructions
-# pip install matplotlib
 import matplotlib.pyplot as plt
 
 # This section contains methods that take data, peform calculations, and retrun a useful aggregate/result.
